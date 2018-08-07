@@ -1,0 +1,112 @@
+18-08-02 11:50:16,712 [localhost-startStop-1] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog-1.log
+18-08-02 15:09:52,573 [localhost-startStop-1] Starting read of logfile /home/shabab/IdeaProjects/TransactionTest/./tmlog7.log
+18-08-02 15:09:52,573 [localhost-startStop-1] Done read of logfile
+18-08-02 15:09:52,573 [localhost-startStop-1] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog7.log
+18-08-02 15:19:32,274 [TomcatPluginShutdownMonitor] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog8.log
+18-08-02 15:19:45,061 [localhost-startStop-1] Starting read of logfile /home/shabab/IdeaProjects/TransactionTest/./tmlog8.log
+18-08-02 15:19:45,061 [localhost-startStop-1] Done read of logfile
+18-08-02 15:19:45,061 [localhost-startStop-1] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog8.log
+18-08-02 15:22:56,232 [TomcatPluginShutdownMonitor] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog9.log
+18-08-02 15:23:20,237 [localhost-startStop-1] Starting read of logfile /home/shabab/IdeaProjects/TransactionTest/./tmlog9.log
+18-08-02 15:23:20,237 [localhost-startStop-1] Done read of logfile
+18-08-02 15:23:20,237 [localhost-startStop-1] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog9.log
+18-08-02 15:23:43,698 [http-bio-8090-exec-6] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 15:31:18,102 [TomcatPluginShutdownMonitor] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog10.log
+18-08-02 15:31:31,509 [localhost-startStop-1] Starting read of logfile /home/shabab/IdeaProjects/TransactionTest/./tmlog10.log
+18-08-02 15:31:31,532 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000100011 with state COMMITTING
+18-08-02 15:31:31,532 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000100011 with state COMMITTING
+18-08-02 15:31:31,532 [localhost-startStop-1] Done read of logfile
+18-08-02 15:31:31,532 [localhost-startStop-1] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog10.log
+18-08-02 15:31:44,309 [http-bio-8090-exec-3] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 15:33:17,496 [TomcatPluginShutdownMonitor] Transaction Service: Waiting for non-terminated coordinators...
+18-08-02 15:45:07,209 [localhost-startStop-1] Starting read of logfile /home/shabab/IdeaProjects/TransactionTest/./tmlog11.log
+18-08-02 15:45:07,210 [localhost-startStop-1] Done read of logfile
+18-08-02 15:45:07,210 [localhost-startStop-1] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog11.log
+18-08-02 15:45:29,348 [http-bio-8090-exec-3] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 15:45:35,070 [http-bio-8090-exec-4] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 15:49:51,621 [TomcatPluginShutdownMonitor] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog12.log
+18-08-02 15:50:07,473 [localhost-startStop-1] Starting read of logfile /home/shabab/IdeaProjects/TransactionTest/./tmlog12.log
+18-08-02 15:50:07,497 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000100013 with state COMMITTING
+18-08-02 15:50:07,497 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000100013 with state COMMITTING
+18-08-02 15:50:07,498 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000200013 with state COMMITTING
+18-08-02 15:50:07,498 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000200013 with state COMMITTING
+18-08-02 15:50:07,498 [localhost-startStop-1] Done read of logfile
+18-08-02 15:50:07,498 [localhost-startStop-1] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog12.log
+18-08-02 15:50:19,369 [http-bio-8090-exec-2] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 15:50:21,190 [http-bio-8090-exec-3] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 15:50:24,022 [http-bio-8090-exec-4] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 15:50:27,195 [http-bio-8090-exec-5] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 15:50:29,788 [http-bio-8090-exec-6] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 15:50:42,069 [http-bio-8090-exec-8] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 15:51:29,044 [http-bio-8090-exec-9] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 15:52:17,775 [TomcatPluginShutdownMonitor] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog13.log
+18-08-02 15:52:32,475 [localhost-startStop-1] Starting read of logfile /home/shabab/IdeaProjects/TransactionTest/./tmlog13.log
+18-08-02 15:52:32,498 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000100014 with state COMMITTING
+18-08-02 15:52:32,498 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000100014 with state COMMITTING
+18-08-02 15:52:32,499 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000200014 with state COMMITTING
+18-08-02 15:52:32,499 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000200014 with state COMMITTING
+18-08-02 15:52:32,499 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000300014 with state COMMITTING
+18-08-02 15:52:32,499 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000300014 with state COMMITTING
+18-08-02 15:52:32,499 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000400014 with state COMMITTING
+18-08-02 15:52:32,499 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000400014 with state COMMITTING
+18-08-02 15:52:32,499 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000500014 with state COMMITTING
+18-08-02 15:52:32,499 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000500014 with state COMMITTING
+.
+18-08-02 15:52:32,500 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000600014 with state COMMITTING
+18-08-02 15:52:32,500 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000600014 with state COMMITTING
+18-08-02 15:52:32,500 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000700014 with state COMMITTING
+18-08-02 15:52:32,500 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000700014 with state COMMITTING
+18-08-02 15:52:32,500 [localhost-startStop-1] Done read of logfile
+18-08-02 15:52:32,500 [localhost-startStop-1] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog13.log
+18-08-02 15:52:39,788 [TomcatPluginShutdownMonitor] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog14.log
+18-08-02 15:52:54,037 [localhost-startStop-1] Starting read of logfile /home/shabab/IdeaProjects/TransactionTest/./tmlog14.log
+18-08-02 15:52:54,038 [localhost-startStop-1] Done read of logfile
+18-08-02 15:52:54,038 [localhost-startStop-1] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog14.log
+18-08-02 15:53:01,897 [http-bio-8090-exec-1] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 15:53:24,705 [TomcatPluginShutdownMonitor] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog15.log
+18-08-02 15:53:36,963 [localhost-startStop-1] Starting read of logfile /home/shabab/IdeaProjects/TransactionTest/./tmlog15.log
+18-08-02 15:53:36,986 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000100016 with state COMMITTING
+18-08-02 15:53:36,987 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000100016 with state COMMITTING
+18-08-02 15:53:36,987 [localhost-startStop-1] Done read of logfile
+18-08-02 15:53:36,987 [localhost-startStop-1] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog15.log
+18-08-02 15:53:42,733 [http-bio-8090-exec-1] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 15:53:52,443 [TomcatPluginShutdownMonitor] Transaction Service: Waiting for non-terminated coordinators...
+18-08-02 16:03:51,736 [localhost-startStop-1] Starting read of logfile /home/shabab/IdeaProjects/TransactionTest/./tmlog16.log
+18-08-02 16:03:51,736 [localhost-startStop-1] Done read of logfile
+18-08-02 16:03:51,736 [localhost-startStop-1] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog16.log
+18-08-02 16:03:59,406 [http-bio-8090-exec-2] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 16:04:01,656 [http-bio-8090-exec-3] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 16:05:04,831 [http-bio-8090-exec-5] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 16:05:15,620 [http-bio-8090-exec-6] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 16:05:17,644 [http-bio-8090-exec-7] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 16:05:19,174 [http-bio-8090-exec-8] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 16:05:21,758 [http-bio-8090-exec-9] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 16:05:37,983 [http-bio-8090-exec-10] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 16:06:36,439 [TomcatPluginShutdownMonitor] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog17.log
+18-08-02 16:06:48,706 [localhost-startStop-1] Starting read of logfile /home/shabab/IdeaProjects/TransactionTest/./tmlog17.log
+18-08-02 16:06:48,728 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000100018 with state COMMITTING
+18-08-02 16:06:48,729 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000100018 with state COMMITTING
+18-08-02 16:06:48,729 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000200018 with state COMMITTING
+18-08-02 16:06:48,729 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000200018 with state COMMITTING
+18-08-02 16:06:48,729 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000300018 with state COMMITTING
+18-08-02 16:06:48,730 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000300018 with state COMMITTING
+18-08-02 16:06:48,730 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000400018 with state COMMITTING
+18-08-02 16:06:48,730 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000400018 with state COMMITTING
+18-08-02 16:06:48,730 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000500018 with state COMMITTING
+18-08-02 16:06:48,730 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000500018 with state COMMITTING
+.
+18-08-02 16:06:48,730 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000600018 with state COMMITTING
+18-08-02 16:06:48,730 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000600018 with state COMMITTING
+18-08-02 16:06:48,730 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000700018 with state COMMITTING
+18-08-02 16:06:48,730 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000700018 with state COMMITTING
+18-08-02 16:06:48,731 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000800018 with state COMMITTING
+18-08-02 16:06:48,731 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000800018 with state COMMITTING
+18-08-02 16:06:48,731 [localhost-startStop-1] Done read of logfile
+18-08-02 16:06:48,731 [localhost-startStop-1] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog17.log
+18-08-02 16:06:54,373 [http-bio-8090-exec-1] Attempt to create a transaction with a timeout that exceeds com.atomikos.icatch.max_timeout - truncating to: 300000
+18-08-02 16:16:05,546 [TomcatPluginShutdownMonitor] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog18.log
+18-08-02 16:16:43,263 [localhost-startStop-1] Starting read of logfile /home/shabab/IdeaProjects/TransactionTest/./tmlog18.log
+18-08-02 16:16:43,287 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000100019 with state COMMITTING
+18-08-02 16:16:43,288 [localhost-startStop-1] Local heuristic termination of coordinator 127.0.1.1.tm0000100019 with state COMMITTING
+18-08-02 16:16:43,288 [localhost-startStop-1] Done read of logfile
+18-08-02 16:16:43,288 [localhost-startStop-1] Logfile closed: /home/shabab/IdeaProjects/TransactionTest/./tmlog18.log

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: transactions-jdbc-3.6.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atomikos/transactions-jdbc/3.6.4/d11e128c9a529add32d1cf5eeb4132416167a80c/transactions-jdbc-3.6.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atomikos/transactions-jdbc/3.6.4/c42d4a2e5ac84088b63a43c4bd0c638dc9e765d2/transactions-jdbc-3.6.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

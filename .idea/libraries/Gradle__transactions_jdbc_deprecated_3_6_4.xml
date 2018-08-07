@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: transactions-jdbc-deprecated-3.6.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atomikos/transactions-jdbc-deprecated/3.6.4/84ba56c1712abb4760a3625e63bbcb20495b946c/transactions-jdbc-deprecated-3.6.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atomikos/transactions-jdbc-deprecated/3.6.4/e0545dc477d902fab6087bafdf9f14a87c33f44d/transactions-jdbc-deprecated-3.6.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
